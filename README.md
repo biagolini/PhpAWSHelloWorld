@@ -59,7 +59,7 @@ git config --global user.name "Your Name"
 Then, clone the repository by running the following command:
 
 ```bash
-git clone git@github.com:biagolini/PhpAWSHelloWorld.git
+git clone https://github.com/biagolini/PhpAWSHelloWorld.git
 sudo chmod -R 755 PhpAWSHelloWorld
 ```
 
