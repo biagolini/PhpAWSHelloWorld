@@ -123,3 +123,11 @@ sudo systemctl reload apache2
 
 Step 7: Test the Web Server
 Open your internet browser and access your instance's public IP. You should see the "Hello World" page.
+
+## Contributing
+
+Feel free to submit issues, create pull requests, or fork the repository to help improve the project.
+
+## License and Disclaimer
+
+This project is open-source and available under the MIT License. You are free to copy, modify, and use the project as you wish. However, any responsibility for the use of the code is solely yours. Please use it at your own risk and discretion.
